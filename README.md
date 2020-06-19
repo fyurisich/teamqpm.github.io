@@ -6,4 +6,4 @@ QPM es una aplicación para administrar proyectos de software desarrollados con 
 
 O QPM é um aplicativo para gerenciar projetos de software desenvolvidos com os compiladores Harbor ou xHarbour e as bibliotecas gráficas Harbor MiniGui, Harbor Extended Minigui ou Oriented Object Oriented Harbor Gui. Ele fornece compilação incremental para todas as configurações e um conjunto de recursos para ajudar no processo de desenvolvimento: edição de código-fonte, formulário, cabeçalho e tabela usando ferramentas de terceiros, controle de versão de arquivo, desenvolvimento de arquivos de ajuda html e chm, etc. Também permite criar aplicativos e bibliotecas de console para os compiladores Borland e MinGW.
 
-[Browse help file](https://qpm.sourceforge.io/QPM/_Index_QPM.htm)
+[Browse help file](https://qpm.sourceforge.io)
