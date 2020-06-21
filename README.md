@@ -6,4 +6,5 @@ QPM es un administrador de proyectos de software basados en los compiladores Har
 
 QPM é um gerente de projetos de software baseados nos compiladores Harbour e xHarbour e nas bibliotecas gráficas MiniGui, Extended Minigui e Object Oriented (x)Harbour Gui. Fornece ferramentas para compilar de forma incremental, editar arquivos (DBF, modelos de formulário, fontes, de cabeçalho e de recursos), executar o controle de versão dos arquivos, desenvolver arquivos de ajuda chm e html, criar aplicativos de console e criar bibliotecas de funções.
 
+[Go to QPM repository](https://github.com/teamQPM/qpm)
 [Browse help file](https://qpm.sourceforge.io)
