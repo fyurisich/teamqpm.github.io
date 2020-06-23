@@ -1,6 +1,6 @@
 ## QPM - QAC based Project Manager
 
-An utility that makes it easy to manage software projects based on Harbour and xHarbour compilers and MiniGui, Extended Minigui, and Object Oriented (x)Harbour Gui graphics libraries. It provides tools that assists programmers in the processes of program writing, compilation, debugging and linking by offering interactive and batch tools to:
+An utility that makes it easy to manage software projects based on Harbour and xHarbour compilers and MiniGui, Extended Minigui, and Object Oriented (x)Harbour Gui graphics libraries. It helps programmers in the processes of program writing, compilation, debugging and linking by offering interactive and batch tools to:
 
 + Access external utilities to edit fonts, forms, headers and DBF files.
 + Keep and recover previous versions of modified files (hot recovery function).
