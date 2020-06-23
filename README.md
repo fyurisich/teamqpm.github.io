@@ -1,9 +1,17 @@
 ## QPM - QAC based Project Manager
 
-QPM is a utility that makes it easy to manage software projects based on Harbour and xHarbour compilers and MiniGui, Extended Minigui, and Object Oriented (x)Harbour Gui graphics libraries. It provides tools for incremental compilation, file edition (DBF, form templates, sources, headers and resources), file version control, chm and html help files development, building console applications and creating function libraries.
+An utility that makes it easy to manage software projects based on Harbour and xHarbour compilers and MiniGui, Extended Minigui, and Object Oriented (x)Harbour Gui graphics libraries. It provides tools that assists programmers in the processes of program writing, compilation, debugging and linking by offering interactive and batch tools to:
 
-QPM es un utilitario que facilita la administración de proyectos de software basados en los compiladores Harbour y xHarbour y las bibliotecas gráficas MiniGui, Extended Minigui y Object Oriented (x)Harbour Gui. Proporciona herramientas para compilar en forma incremental, editar archivos (DBF, plantillas de formulario, fuentes, encabezados y de recursos), realizar el control de las versiones de los archivos, desarrollar archivos de ayuda chm y html, construir aplicaciones de consola y crear bibliotecas de funciones.
-
-QPM é um utilitário que facilita o gerenciamento de projetos de software baseados nos compiladores Harbour e xHarbour e nas bibliotecas gráficas MiniGui, Extended Minigui e Object Oriented (x)Harbour Gui. Fornece ferramentas para compilar de forma incremental, editar arquivos (DBF, modelos de formulário, fontes, de cabeçalho e de recursos), executar o controle de versão dos arquivos, desenvolver arquivos de ajuda chm e html, criar aplicativos de console e criar bibliotecas de funções.
++Access external utilities to edit fonts, forms, headers and DBF files.
++Keep and recover previous versions of modified files (hot recovery function).
++View and search source files, forms, headers, and DBF files.
++Incrementally compile GUI, console, and mixed-type programs.
++View error files resulting from compilation and execution.
++View .PPO files (preprocessor output).
++Execute post-build processes.
++Create CHM and HTML help files.
++Create static libraries and DLL access interfaces.
++Show the names of the functions included in static and dynamic libraries.
++Compress EXE files with the UPX utility.
 
 [Go to QPM repository](https://github.com/teamQPM/qpm) | [Download installer](https://github.com/teamQPM/qpm/releases/latest) | [Browse help file](https://qpm.sourceforge.io)
